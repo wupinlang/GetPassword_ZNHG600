@@ -288,7 +288,7 @@ function getPassword()
     {
       name = name + "0" + i.toString();
     }
-    else if (i < 100000000)
+    else if (i < 100000000) 
     {
       name = name + i.toString();
     }
